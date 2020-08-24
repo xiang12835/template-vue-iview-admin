@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# iview-vue-admin
+# template-vue-iview-admin
+
+a vue admin project template with iview ui
 
 ## Project setup
 ```
@@ -20,7 +21,4 @@ yarn run build
 ```
 yarn run lint
 ```
-=======
-# template-vue-iview-admin
-a vue admin project template with iview ui
->>>>>>> 8e1b8783350c141f07063de0e08c8081128c3be2
+
